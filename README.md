@@ -1,10 +1,10 @@
 <h1 align="center">
- 👋 Bonsoir, I'm William "JacKeR*" Moriarty!
+ 👋 Hello guys , 🔥 I'm  Oojoo 🔥  "PocoJ*" !
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Junior+Engineer;Backend+Developer;Vanilla+Dude" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Junior+Engineer;Backend+Developer;Crush+ME" > 
 </p>
 
 </br> 
@@ -21,8 +21,8 @@
 
 >✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  All of my projects are available at https://github.com/jackere1 <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@Энх Болд](https://www.facebook.com/pagenotrespond) <br>
-                         &nbsp; &nbsp; * [Email-@JacKeR*](jackerenh@gmail.com) <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@Очирсүх Оожоо](https://www.facebook.com/pagenotrespond) <br>
+                         &nbsp; &nbsp; * [Email-@dinasour0819*](dinasour0819@gmail.com) <br>
 ✔  Status: junior/newbie <br>
 ✔  Interest: Video games <br>
 
@@ -32,7 +32,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/jackere1"><img alt="jacker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jackere1&custom_title=jackere1's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/jackere1"><img alt="oojoo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jackere1&custom_title=jackere1's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
