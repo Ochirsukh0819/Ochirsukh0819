@@ -17,7 +17,7 @@
 
 <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-gifs&psig=AOvVaw0-6BA4U7MWqZvR28JVruaU&ust=1669082305257000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi7qqGWvvsCFQAAAAAdAAAAABAJ)">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F450993350184417753%2F&psig=AOvVaw0k7A0rfDZNXvWnuhgmQp8m&ust=1669082961756000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCRkfeYvvsCFQAAAAAdAAAAABAD" />
+<img align="right" width=200px height=200px alt="side_sticker" src="http://25.media.tumblr.com/25c986b52c668a2fa2d26c518f94e8bf/tumblr_mvckx20aEr1r3maj7o1_500.gif" />
 
 >✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  All of my projects are available at https://github.com/jackere1 <br>
