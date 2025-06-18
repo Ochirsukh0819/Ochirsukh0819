@@ -20,7 +20,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="http://25.media.tumblr.com/25c986b52c668a2fa2d26c518f94e8bf/tumblr_mvckx20aEr1r3maj7o1_500.gif" />
 
 >✔  I’m currently learning Everything related with software engineering .. <br>
-✔  All of my projects are available at https://github.com/jackere1 <br>
+✔  All of my projects are available at https://github.com/Ochirsukh0819 <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@Очирсүх Оожоо](https://www.facebook.com/pagenotrespond) <br>
                          &nbsp; &nbsp; * [Email-@dinasour0819*](dinasour0819@gmail.com) <br>
 ✔  Status: junior/newbie <br>
